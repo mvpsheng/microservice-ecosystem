@@ -5,34 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="378ffd04-222e-482b-8aa4-f7be6c9fa874" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/src/main/java/com/example/eurekaserver/EurekaserverApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurekaserver/src/test/java/com/example/eurekaserver/EurekaserverApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-discovery/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-discovery/src/main/java/com/gxs/discoveryServer/DiscoveryServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-discovery/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/gxs/apigateway/ApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/test/java/com/gxs/apigateway/ApiGatewayApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/com/gxs/inventoryservice/InventoryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/gxs/inventoryservice/InventoryServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/gxs/orderservices/OrderServicesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/gxs/orderservices/OrderServicesApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/gxs/orderservices/config/WebClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/gxs/orderservices/config/WebClientConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/gxs/orderservices/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/gxs/orderservices/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/gxs/booking/BookingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/com/gxs/booking/BookingApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/gxs/booking/BookingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/com/gxs/booking/ProductServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +37,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/api-gateway" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -95,8 +84,8 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
-    "spring.configuration.checksum": "eacf4041d26ae2a945e82c0a867b8da2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "61f9c94e6886475c2a716a88db773af6",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -127,22 +116,9 @@
     <configuration name="generated-requests | #24" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="24" requestIdentifier="#24" runType="Run single request">
       <method v="2" />
     </configuration>
-    <configuration name="BookingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="product-service" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gxs.booking.BookingApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gxs.booking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DiscoveryServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="service-discovery" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gxs.discoveryServer.DiscoveryServerApplication" />
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gxs.apigateway.ApiGatewayApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -196,19 +172,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProductServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="product-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gxs.booking.ProductServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gxs.booking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="HTTP Request.generated-requests | #24" />
-      <item itemvalue="Spring Boot.DiscoveryServerApplication" />
       <item itemvalue="Spring Boot.EurekaserverApplication" />
-      <item itemvalue="Spring Boot.BookingApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      <item itemvalue="Spring Boot.ProductServiceApplication" />
       <item itemvalue="Spring Boot.InventoryServiceApplication" />
       <item itemvalue="Spring Boot.OrderServicesApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.OrderServicesApplication" />
         <item itemvalue="Spring Boot.InventoryServiceApplication" />
-        <item itemvalue="Spring Boot.BookingApplication" />
+        <item itemvalue="Spring Boot.ProductServiceApplication" />
+        <item itemvalue="Spring Boot.OrderServicesApplication" />
         <item itemvalue="HTTP Request.generated-requests | #24" />
       </list>
     </recent_temporary>
@@ -227,7 +216,8 @@
       <workItem from="1668835755931" duration="80000" />
       <workItem from="1669127958934" duration="1826000" />
       <workItem from="1669131191488" duration="4530000" />
-      <workItem from="1669175043833" duration="5175000" />
+      <workItem from="1669175043833" duration="6297000" />
+      <workItem from="1669203822581" duration="1341000" />
     </task>
     <servers />
   </component>
@@ -258,6 +248,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/eurekaserver" />
+    </ignored-roots>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -6,12 +6,12 @@ import brave.Tracer;
 import com.gxs.orderservices.dto.InventoryResponse;
 import com.gxs.orderservices.dto.OrderLineItemsDto;
 import com.gxs.orderservices.dto.OrderRequest;
-import com.gxs.orderservices.event.OrderPlacedEvent;
+
 import com.gxs.orderservices.model.Order;
 import com.gxs.orderservices.model.OrderLineItems;
 import com.gxs.orderservices.repository.OrderRepository;
 import lombok.RequiredArgsConstructor;
-import org.springframework.kafka.core.KafkaTemplate;
+
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.reactive.function.client.WebClient;
